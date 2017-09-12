@@ -1,0 +1,88 @@
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.exe.config
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.csprojResolveAssemblyReference.cache
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.Cache
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.exe
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.pdb
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.exe
+c:\users\sachin\documents\visual studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.pdb
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Faculty_Dashboard.resources
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Evaulation.resources
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Faculty_Pannel.resources
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Home_window.resources
+C:\Users\Sachin\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Admin.resources
+F:\gbu project\Faculty\Faculty\bin\Debug\Faculty.exe.config
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.exe
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.pdb
+F:\gbu project\Faculty\Faculty\bin\Debug\Faculty.exe
+F:\gbu project\Faculty\Faculty\bin\Debug\Faculty.pdb
+F:\gbu project\Faculty\Faculty\bin\Debug\Newtonsoft.Json.dll
+F:\gbu project\Faculty\Faculty\bin\Debug\Newtonsoft.Json.xml
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.csprojResolveAssemblyReference.cache
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Admin.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Evaulation.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Faculty_Dashboard.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Faculty_Pannel.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Home_window.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.Cache
+F:\gbu project\Faculty\Faculty\obj\Debug\Faculty.admin_login.resources
+F:\Faculty\Faculty\bin\Debug\Faculty.exe.config
+F:\Faculty\Faculty\obj\Debug\Faculty.exe
+F:\Faculty\Faculty\obj\Debug\Faculty.pdb
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\bin\Debug\Faculty.exe.config
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.exe
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.pdb
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.csprojResolveAssemblyReference.cache
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Admin.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.admin_login.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Evaulation.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Faculty_Dashboard.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Faculty_Pannel.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Home_window.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.Cache
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\bin\Debug\Faculty.exe
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\bin\Debug\Faculty.pdb
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\bin\Debug\Newtonsoft.Json.dll
+F:\Study\projects\gbu project\latest 10\Project\Faculty\Faculty\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.exe.config
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.exe
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Faculty.pdb
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Admin.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.admin_login.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Evaulation.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Faculty_Dashboard.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Faculty_Pannel.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Home_window.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.Cache
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.exe
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.pdb
+C:\Users\RK\Documents\Visual Studio 2015\Projects\Faculty\Faculty\obj\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Project Stuff\Faculty\Faculty\bin\Debug\Faculty.exe.config
+D:\Project Stuff\Faculty\Faculty\bin\Debug\Faculty.exe
+D:\Project Stuff\Faculty\Faculty\bin\Debug\Faculty.pdb
+D:\Project Stuff\Faculty\Faculty\bin\Debug\Newtonsoft.Json.dll
+D:\Project Stuff\Faculty\Faculty\bin\Debug\Newtonsoft.Json.xml
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Admin.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.admin_login.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Evaulation.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Faculty_Dashboard.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Faculty_Pannel.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Form1.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Home_window.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.Properties.Resources.resources
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.csproj.GenerateResource.Cache
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.exe
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.pdb
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.csprojResolveAssemblyReference.cache
+D:\Project Stuff\Faculty\Faculty\obj\Debug\Faculty.csproj.ResolveComReference.cache
